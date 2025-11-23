@@ -1,5 +1,11 @@
-# Guia de Aula – Relé Fotoelétrico (Fotorrelé / Fotocélula)
-### Aula técnica completa para ensino profissionalizante
+<td style="width: 10%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="10%" /></td>
+
+## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+## **Departamento de Engenharia Elétrica - CEFET-MG**  
+## **Coordenação do Curso de Eletrotécnica**  
+
+## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+## Guia de Aula – Relé Fotoelétrico (Fotorrelé / Fotocélula)
 
 ---
 
@@ -40,7 +46,7 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 - Resposta lenta (5–20 s).  
 - Muito robusto, usado em iluminação pública antiga.
 
-## b) Relé fotoelétrico eletrônico (moderno)
+## b) Relé fotoelétrico eletrônico 
 - Usa fototransistor ou LDR.  
 - Resposta rápida (1–2 s).  
 - Maior precisão.  
@@ -66,7 +72,7 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 
 #  5. Funcionamento Interno
 
-## Modelo bimetálico (solicitado)
+## Modelo bimetálico 
 - Possui **resistência aquecedora** e **lâmina bimetálica**.  
 - Quando está escuro → resistência aquece → lâmina dobra → **liga a iluminação**.  
 - Quando está claro → resistência desliga → lâmina esfria → **desliga a iluminação**.
@@ -80,20 +86,19 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 
 #  6. Esquemas de Ligação
 
-## **Esquema 1 — 220 V (fase + neutro)**
+## **Esquema 1 — 127 V (fase + neutro)**
 - Preto → fase  
 - Branco → neutro  
 - Vermelho → retorno  
 - Lâmpada recebe fase controlada + neutro direto
 
-## **Esquema 2 — 127 V**
-- Mesmo princípio, apenas tensão diferente
+## **Esquema 2 — 220 V**
+- Preto → fase  
+- Branco → fase   
+- Vermelho → retorno  
+- Lâmpada recebe fase controlada + fase  
 
-## **Esquema 3 — 220 V fase-fase**
-- Entra F1 e F2 no relé  
-- Saída é uma das fases controladas para a lâmpada
 
----
 
 #  7. Como Testar um Relé Fotoelétrico
 
@@ -125,15 +130,6 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 - Evitar sombra permanente  
 - Seguir **NBR 5410** para cores dos cabos  
 - Proteger contra chuva e intempéries  
-
----
-
-#  10. Exercícios Propostos
-1. Desenhar o esquema em 127 V.  
-2. Explicar o funcionamento do bimetálico.  
-3. Instalar um relé fotoelétrico em bancada.  
-4. Medir corrente suportada.  
-5. Simular defeitos e diagnosticar.
 
 ---
 
