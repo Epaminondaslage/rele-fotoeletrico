@@ -6,8 +6,7 @@
 ## **Coordenação do Curso de Eletrotécnica**  
 
 ## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-## Guia de Aula – Relé Fotoelétrico (Fotorrelé / Fotocélula)
-
+## Guia de Aula – Relé Fotoelétrico 
 ---
 
 #  1. Objetivo da Aula
