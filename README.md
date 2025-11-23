@@ -26,6 +26,8 @@ Ao final desta aula, o aluno será capaz de:
 #  2. O que é um Relé Fotoelétrico?
 O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente** um circuito elétrico de acordo com a **intensidade da luz** ambiente.
 
+<img src="img/rele.jpg" style="width: 50%; height: auto;" />
+
 ###  Função principal:
 - Acender lâmpadas automaticamente ao anoitecer  
 - Desligar ao amanhecer  
