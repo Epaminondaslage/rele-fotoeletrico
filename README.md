@@ -63,13 +63,17 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 ---
 
 #  4. Componentes Externos (Modelo comum)
-- **Cúpula azul/plástica**  
+
+<img src="img/rele-fotoeletrico-suporte.jpg" style="width: 30%; height: auto;" />
+
+- **Cúpula cinza/plástica**  
 - **Janela do sensor fotoelétrico**  
 - **Base de fixação**  
 - **Fiação:**  
   - Vermelho → Retorno  
   - Preto → Fase  
   - Branco → Neutro  
+
 
 ---
 
@@ -87,15 +91,21 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 
 ---
 
-#  6. Esquemas de Ligação
+#  6. PARTE PRÁTICA
 
 ## **Esquema 1 — 127 V (fase + neutro)**
+
+<img src="img/carga 127v.jpg" style="width: 30%; height: auto;" />
+
 - Preto → fase  
 - Branco → neutro  
 - Vermelho → retorno  
 - Lâmpada recebe fase controlada + neutro direto
 
 ## **Esquema 2 — 220 V**
+
+<img src="img/carga 220v.jpg" style="width: 30%; height: auto;" />
+
 - Preto → fase  
 - Branco → fase   
 - Vermelho → retorno  
