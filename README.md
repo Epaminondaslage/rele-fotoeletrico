@@ -2,14 +2,14 @@
     <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
 </td>
 
-## **Departamento de Engenharia Elétrica - CEFET-MG**  
-## **Coordenação do Curso de Eletrotécnica**  
+### **Departamento de Engenharia Elétrica - CEFET-MG**  
+### **Coordenação do Curso de Eletrotécnica**  
 
-## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-## Guia de Aula – Relé Fotoelétrico 
+### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+### Guia de Aula – Relé Fotoelétrico 
 ---
 
-#  1. Objetivo da Aula
+##  1. Objetivo da Aula
 Ao final desta aula, o aluno será capaz de:
 
 - Explicar o funcionamento de um relé fotoelétrico.  
@@ -22,7 +22,7 @@ Ao final desta aula, o aluno será capaz de:
 
 ---
 
-#  2. O que é um Relé Fotoelétrico?
+##  2. O que é um Relé Fotoelétrico?
 O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente** um circuito elétrico de acordo com a **intensidade da luz** ambiente.
 
 <img src="img/rele.jpg" style="width: 50%; height: auto;" />
@@ -40,28 +40,28 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 
 ---
 
-#  3. Tipos de Relé Fotoelétrico
+##  3. Tipos de Relé Fotoelétrico
 
-## a) Relé fotoelétrico bimetálico (tradicional)
+### a) Relé fotoelétrico bimetálico (tradicional)
 - Tecnologia mais antiga.  
 - Possui **lâmina bimetálica** que aquece ou esfria conforme a luz.  
 - Resposta lenta (5–20 s).  
 - Muito robusto, usado em iluminação pública antiga.
 
-## b) Relé fotoelétrico eletrônico 
+### b) Relé fotoelétrico eletrônico 
 - Usa fototransistor ou LDR.  
 - Resposta rápida (1–2 s).  
 - Maior precisão.  
 - Menor consumo.
 
-## c) Relé fotoelétrico digital
+### c) Relé fotoelétrico digital
 - Pode ter temporização programável.  
 - Alta precisão.  
 - Usado em sistemas modernos e controladores automáticos.
 
 ---
 
-#  4. Componentes Externos (Modelo comum)
+##  4. Componentes Externos (Modelo comum)
 
 <img src="img/rele-fotoeletrico-suporte.jpg" style="width: 30%; height: auto;" />
 
@@ -76,23 +76,23 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 
 ---
 
-#  5. Funcionamento Interno
+##  5. Funcionamento Interno
 
-## Modelo bimetálico 
+### Modelo bimetálico 
 - Possui **resistência aquecedora** e **lâmina bimetálica**.  
 - Quando está escuro → resistência aquece → lâmina dobra → **liga a iluminação**.  
 - Quando está claro → resistência desliga → lâmina esfria → **desliga a iluminação**.
 
-###  Características:
+####  Características:
 - Simples  
 - Robusto  
 - Atraso natural (evita piscar)
 
 ---
 
-#  6. PARTE PRÁTICA
+##  6. PARTE PRÁTICA
 
-## **Esquema 1 — 127 V (fase + neutro)**
+### **Esquema 1 — 127 V (fase + neutro)**
 
 <img src="img/carga 127v.jpg" style="width: 30%; height: auto;" />
 
@@ -101,7 +101,7 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 - Vermelho → retorno  
 - Lâmpada recebe fase controlada + neutro direto
 
-## **Esquema 2 — 220 V**
+### **Esquema 2 — 220 V**
 
 <img src="img/carga 220v.jpg" style="width: 30%; height: auto;" />
 
@@ -112,19 +112,19 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 
 
 
-#  7. Como Testar um Relé Fotoelétrico
+##  7. Como Testar um Relé Fotoelétrico
 
-## Teste 1 — Manual
+### Teste 1 — Manual
 - Cubra a janela → lâmpada deve acender  
 - Retire a mão → lâmpada apaga
 
-## Teste 2 — Multímetro
+### Teste 2 — Multímetro
 - Medir continuidade no fio vermelho  
 - Cobrir sensor → contato deve fechar
 
 ---
 
-#  8. Defeitos Comuns
+##  8. Defeitos Comuns
 
 | Sintoma | Causa provável | Solução |
 |--------|----------------|---------|
@@ -135,7 +135,7 @@ O **relé fotoelétrico** é um dispositivo que **liga e desliga automaticamente
 
 ---
 
-#  9. Boas Práticas de Instalação
+##  9. Boas Práticas de Instalação
 - Instalar longe de luz direta da própria lâmpada  
 - Fixar bem o suporte  
 - Usar caixa de passagem  
